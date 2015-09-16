@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:29.956035
+#+DATE: 2015-08-30 20:06:34.831873
 #+TITLE: 大方廣十輪經
 #+PROPERTY: CBETA_ID T13n0410
 #+PROPERTY: ID KR6h0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 410
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0014_T_005-0702a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《大方廣十輪經》卷第五¶
+《大方廣十輪經》卷第五¶
 ¶
 失譯人名今附北涼錄¶
 
-7眾善相品
-:PROPERTIES:
-:head: 眾善相品第七
-:END:
-¶
+眾善相品第七¶
 
 爾時，金剛藏菩薩於大眾中從坐而起，偏¶
 袒右肩右膝著地，長跪叉手合掌向佛，以¶
@@ -169,7 +164,7 @@
 「云何名無慚愧僧？若有人為¶
 自活命來入佛法，而受波羅提木叉戒悉¶
 皆毀犯，破和合僧無有慚愧，不畏後世¶
-內懷臭穢，其聲如貝言辭堅䩕，常懷嫉¶
+內懷臭穢，其聲如貝言辭堅[革*卬]，常懷嫉¶
 妬、愚癡、憍慢，棄捨三業但為利養，放恣¶
 六情貪著五欲、色、聲、香、味、觸，誹謗正法，如¶
 是等人，依止我法心無慚愧，是故名為無¶

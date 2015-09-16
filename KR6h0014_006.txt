@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:29.979697
+#+DATE: 2015-08-30 20:06:34.856991
 #+TITLE: 大方廣十輪經
 #+PROPERTY: CBETA_ID T13n0410
 #+PROPERTY: ID KR6h0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 410
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0014_T_006-0706a> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《大方廣十輪經》卷第六¶
+《大方廣十輪經》卷第六¶
 ¶
-失譯人名今附北涼錄¶
+失譯人名今附北涼錄人名今附北涼錄¶
 
-8剎利依止輪相品
-:PROPERTIES:
-:head: 剎利依止輪相品第八
-:END:
-¶
+剎利依止輪相品第八¶
 
 「復次，善男子！十種依止行輪，一切聲聞、辟支¶
 佛乃至如來皆與同等。若有成就依止輪¶
@@ -308,7 +303,7 @@
 　毀訾而誹謗，
 　亦自壞其身。¶
 　為欲修人身，
-　不舌𤴽而死；¶
+　不舌[病-丙+今]而死；¶
 　常值諸佛者，
 　顯示三乘法。
 <pb:KR6h0014_T_006-0708c>¶
