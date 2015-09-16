@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣十輪經
+#+DATE: 2015-08-30 20:06:30.339991
+#+PROPERTY: JUAN 0
