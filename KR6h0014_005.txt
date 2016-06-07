@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:29.956035
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:17
 #+TITLE: 大方廣十輪經
 #+PROPERTY: CBETA_ID T13n0410
 #+PROPERTY: ID KR6h0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 410
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6h0014_T_005-0702a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《大方廣十輪經》卷第五¶
+《大方廣十輪經》卷第五¶
 ¶
 失譯人名今附北涼錄¶
 
-7眾善相品
-:PROPERTIES:
-:head: 眾善相品第七
-:END:
-¶
+* 眾善相品第七¶
 
 爾時，金剛藏菩薩於大眾中從坐而起，偏¶
 袒右肩右膝著地，長跪叉手合掌向佛，以¶
@@ -71,9 +66,9 @@
 　諸有為法悉厭離，
 　晝夜修習於禪定；¶
 　何時當得而濟脫？
-　能度四流名救世。」
+　能度四流名救世。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，佛告金剛藏菩薩：「善男子！善哉，善哉！¶
 利益安樂一切眾生，若人及天無能如是¶
@@ -477,9 +472,9 @@
 　是故於三乘，
 　智者如法說；¶
 　守護我聲聞，
-　速成最正覺。
+　速成最正覺。」
 #+END_VERSE
-」¶
+¶
 《大方廣十輪經》卷第五
 <pb:KR6h0014_T_005-0706a>¶
 
