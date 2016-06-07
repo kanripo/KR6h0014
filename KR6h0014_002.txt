@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 410
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6h0014_T_002-0686a> ¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -432,7 +432,7 @@
 聞、持戒；善知分別有功德者，方便、智慧，能勤¶
 精進堅固不退，種種福德而自莊嚴。於是眾¶
 中作灌頂剎利王，隨其相貌，金、銀、珍寶、倉¶
-庫、穀帛，及諸田宅、奴婢、僕使，皆悉給與此國。¶
+庫、[穀-(一/禾)+釆]帛，及諸田宅、奴婢、僕使，皆悉給與此國。¶
 若有於眾生中能持戒者，如此眾生亦給¶
 短乏。若有眾生不持戒者，少於精進、懈¶
 怠、懶惰、忘失正念，無慈愍心亦無返復，不¶
